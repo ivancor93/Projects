@@ -26,3 +26,6 @@
 >     - Compare customer service data to gain more perspective (Key Performance Indicators on the satisfaction of this service, the number of requests processed and resolved, customer ratings, consumer blogs).
 >     - Adjust current offerings based on customer income (type of card based on income, credit offers, an expanded range of services and products, etc.).
 >     - Create an alert system when a customer reaches a threshold in their transactional behavior, such as a decrease in activity.
+
+
+Back to [Portfolio](https://ivancor93.github.io/Portfolio)
