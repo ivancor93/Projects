@@ -1,4 +1,4 @@
-z# Visualizing Data with Microsoft Excel
+# Visualizing Data with Microsoft Excel
 
 ## Scenario
  > Data Analyst for a fictitious french bank company. (Illustrations are on their original presentation and language)
@@ -28,4 +28,4 @@ z# Visualizing Data with Microsoft Excel
 >     - Create an alert system when a customer reaches a threshold in their transactional behavior, such as a decrease in activity
 
 
-Back to [Portfolio](https://ivancor93.github.io/Portfolio)
+## Back to [Portfolio](https://ivancor93.github.io/Portfolio)
