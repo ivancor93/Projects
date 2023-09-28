@@ -4,7 +4,10 @@
  > Business Intelligence Consultant for a fictitious insurance company. (Illustrations are on their original presentation and language)
 
 ## Missions
-> * Identify 
+> * Manage a database with SQL in order to developp the Data-Driven strategy
+> * Conduct an inventory of our current contracts and customers profile
+> * Review the prices of insurance contracts to differentiate from the competition
+> * Create a presentation on the procedure for creating SQL queries
 >
 >   Picture 1 : 
 > 
