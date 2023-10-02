@@ -1,7 +1,7 @@
 # Querying a database with SQL
 
 ## Scenario
- > Business Intelligence Consultant for a fictitious insurance company. (Illustrations are on their original presentation and language)
+ > Business Intelligence Consultant for an insurance company. (Illustrations are on their original presentation and language)
 
 ## Missions
 > * Manage a database with SQL in order to developp the Data-Driven strategy
