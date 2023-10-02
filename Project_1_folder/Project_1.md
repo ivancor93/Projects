@@ -1,7 +1,7 @@
 # Visualizing Data with Microsoft Excel
 
 ## Scenario
- > Data Analyst for a fictitious french bank company. (Illustrations are on their original presentation and language)
+ > Data Analyst for a bank company. (Illustrations are on their original presentation and language)
 
 ## Missions
 > * Identify the typical profile of customers who are leaving the bank
