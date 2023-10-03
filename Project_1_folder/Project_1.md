@@ -2,6 +2,7 @@
 
 ## Scenario
  > Data Analyst for a bank company. (Illustrations are on their original presentation and language)
+ >
  > Software tool : Microsoft Excel und Microsoft Power Point
 
 ## Missions
