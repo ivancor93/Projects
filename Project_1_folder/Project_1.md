@@ -4,6 +4,8 @@
  > Data Analyst for a bank company. (Illustrations are on their original presentation and language)
  >
  > Software tool : Microsoft Excel und Microsoft Power Point
+>
+ > Applied techniques : pivot tables, advanced formulas, creating charts, recording a macro
 
 ## Missions
 > * Identify the typical profile of customers who are leaving the bank
