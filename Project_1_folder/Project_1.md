@@ -2,7 +2,7 @@
 
 ## Scenario
  > Data Analyst for a bank company. (Illustrations are on their original presentation and language)
- > Software tool : SQLite Studio
+ > Software tool : Microsoft Excel und Microsoft Power Point
 
 ## Missions
 > * Identify the typical profile of customers who are leaving the bank
