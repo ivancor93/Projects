@@ -4,6 +4,8 @@
  > Consultant Data Analyst for an car insurance company. (Illustrations are on their original presentation and language)
 > 
  > Software tool : Microsoft Excel Power Query and SQLite Studio
+>
+ > Applied techniques : exploring data, filter, add columns, transform data types, advanced formula, manage queries
 
 ## Missions
 > * Provide recommendations on the management rules to be implemented immediately for CRM data to comply with the data protection official rules (RGPD in french)
