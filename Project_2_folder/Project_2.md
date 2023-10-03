@@ -2,6 +2,7 @@
 
 ## Scenario
  > Business Intelligence Consultant for an insurance company. (Illustrations are on their original presentation and language)
+ > Software tool : SQLite Studio
 
 ## Missions
 > * Manage a database with SQL in order to developp the Data-Driven strategy
