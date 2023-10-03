@@ -4,6 +4,8 @@
  > Business Intelligence Consultant for an insurance company. (Illustrations are on their original presentation and language)
  > 
  > Software tool : SQLite Studio
+>
+ > Applied techniques : joins between multiple tables, group by, order by, having, like, creating tables, transforming date values
 
 ## Missions
 > * Manage a database with SQL in order to developp the Data-Driven strategy
