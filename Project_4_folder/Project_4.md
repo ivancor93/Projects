@@ -1,4 +1,4 @@
-# Optimizing inventory management for a store by cleaning its data with Python
+# Optimizing stock management for a store by cleaning its data with Python
 
 ## Scenario
  > Data Analyst for an important wine shop in France. (Illustrations are on their original presentation and language)
