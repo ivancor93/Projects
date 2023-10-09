@@ -15,15 +15,15 @@
 
 >   Picture 1 : Creating a loop to complete missing information, based on variables common information.
 > 
->   ![picture1](/Projects/Project_4_folder/images/Image_1.jpg)
+>   ![picture1](/Projects/Project_4_folder/images/Image_1.png)
 > 
 >   Picture 2 : Integrating a csv file with encrypted format
 >
->   ![picture2](/Projects/Project_4_folder/images/Image_2.jpg)
+>   ![picture2](/Projects/Project_4_folder/images/Image_2.png)
 > 
 >   Picture 3 : Visualising data with Plotly Express, in this case observing the price dispersion using a boxplot
 >
->   ![picture3](/Projects/Project_4_folder/images/Image_3.jpg)
+>   ![picture3](/Projects/Project_4_folder/images/Image_3.png)
 
 
 ### Back to [Portfolio](https://ivancor93.github.io/Portfolio)
