@@ -3,9 +3,9 @@
 ## Scenario
  > Data Analyst for an important wine shop in France. (Illustrations are on their original presentation and language)
 > 
- > Software tool : Python (Jupyter Notebook)
+ > Software tool : Anaconda
 >
- > Applied techniques : joins, loops, functions, libraries as Pandas, Numpy, MatplotLib, PlotlyExpress
+ > Applied techniques : joins, loops, functions, anomaly detection, using libraries as Pandas, Numpy, MatplotLib, PlotlyExpress
 
 ## Missions
 > * Optimize stock management through automate data cleaning, structuring and preparation
@@ -13,15 +13,15 @@
 > * Present Data visualisation with Python Libraries
 > * Document all the steps of this operation in a Jupiter Notebook in order to keep traceability
 
->   Picture 1 : Creating a loop to complete missing information, based on variables common information.
+>   Picture 1 : Creating a loop to complete missing information, based on common informatio within labels
 > 
 >   ![picture1](/Projects/Project_4_folder/images/Image_1.png)
 > 
->   Picture 2 : Integrating a csv file with encrypted format
+>   Picture 2 : Integrating a csv file with encoding format
 >
 >   ![picture2](/Projects/Project_4_folder/images/Image_2.png)
 > 
->   Picture 3 : Visualising data with Plotly Express, in this case observing the price dispersion using a boxplot
+>   Picture 3 : Visualising data with Plotly Express, in this case observing a price dispersion through boxplot
 >
 >   ![picture3](/Projects/Project_4_folder/images/Image_3.png)
 
