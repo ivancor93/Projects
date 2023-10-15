@@ -5,7 +5,7 @@
 > 
  > Software tool : SQLite
 >
- > Applied techniques : joins, 
+ > Applied techniques : count, joins, group by, order by, limit, having by, transforming data time type, using conditions (when), using sub tables
 
 ## Missions
 > * Use customer feedback and review data to improve the quality of its store network
