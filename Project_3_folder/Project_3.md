@@ -5,7 +5,7 @@
 > 
  > Software tool : Microsoft Excel Power Query and SQLite Studio
 >
- > Applied techniques : exploring data, filter, add columns, transform data types, advanced formula, manage queries
+ > Applied techniques : DAX query language, exploring data, filter, add columns, transform data types, advanced formula, data management
 
 ## Missions
 > * Provide recommendations on the management rules to be implemented immediately for CRM data to comply with the data protection official rules (RGPD in french)
