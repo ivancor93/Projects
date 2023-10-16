@@ -1,7 +1,7 @@
 # Advanced SQL Database Querying
 
 ## Scenario
- > Scenario : Business Intelligence Consultant for a large retail company. Those were the missions:. (Illustrations are on their original presentation and language)
+ > Scenario : Business Intelligence Consultant for a large retail company. (Illustrations are on their original presentation and language)
 > 
  > Software tool : SQLite
 >
