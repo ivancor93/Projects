@@ -14,16 +14,19 @@
 
 >   Picture 1 : C
 > 
->   ![picture1](/Projects/Project_7_folder/images/Image_1.jpg)
+>   ![picture1](/Projects/Project_7_folder/images/Image_1.png)
 > 
 >   Picture 2 : T
 >
->   ![picture2](/Projects/Project_7_folder/images/Image_2.jpg)
+>   ![picture2](/Projects/Project_7_folder/images/Image_2.png)
 > 
 >   Picture 3 : U
 >
->   ![picture3](/Projects/Project_7_folder/images/Image_3.jpg)
-
+>   ![picture3](/Projects/Project_7_folder/images/Image_3.png)
+> 
+>   Picture 4 : U
+>
+>   ![picture3](/Projects/Project_7_folder/images/Image_4.png)
 
 
 ### Back to [Portfolio](https://ivancor93.github.io/Portfolio)
