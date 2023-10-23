@@ -1,4 +1,4 @@
-# Analyzing Real Estate Price Trends with Advanced Python
+# Creating a Dynamic Dashboard with Power BI for Project Management
 
 ## Scenario
  > Scenario : Data Analyst for an international group that manufactures and markets oral care products (Illustrations are on their original presentation and language)
