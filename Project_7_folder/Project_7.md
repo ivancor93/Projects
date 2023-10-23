@@ -12,19 +12,19 @@
 > * Formalize the user stories in a Product Strategy Canvas
 > * Document the data preparation steps and present the star schema model
 
->   Picture 1 : C
+>   Picture 1 : Dashboard identifying main Key Performance Indicators
 > 
 >   ![picture1](/Projects/Project_7_folder/images/Image_1.png)
 > 
->   Picture 2 : T
+>   Picture 2 : Controlling delays with a global map
 >
 >   ![picture2](/Projects/Project_7_folder/images/Image_2.png)
 > 
->   Picture 3 : U
+>   Picture 3 : Gantt Chart visualisation
 >
 >   ![picture3](/Projects/Project_7_folder/images/Image_3.png)
 > 
->   Picture 4 : U
+>   Picture 4 : Star schema of entities
 >
 >   ![picture3](/Projects/Project_7_folder/images/Image_4.png)
 
